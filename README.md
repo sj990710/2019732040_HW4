@@ -11,4 +11,4 @@ eyJoaXN0b3J5IjpbLTE0Mjc5NDczOTMsLTE2NTA3Mzc1OTNdfQ
 ==
 -->
 
-8. "branch_pr_학번"에서 Readme.md를 적당히 수정한 후 repository로 push 합니다.
+8. "branch_pr_학번"에서 Readme.md를 적당히 수정한 후 repository로 push 합니다.김유진
